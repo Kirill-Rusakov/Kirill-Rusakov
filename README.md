@@ -3,10 +3,9 @@
 <h3 align="center">PHP / Веб-разработчик (Junior+ / Middle)</h3>
 
 <p align="center">
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Портфолио-000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="mailto:i@kirill-rusakov.ru" target="_blank"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/KirillRusacov" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://parseforge.ru" target="_blank"><img src="https://img.shields.io/badge/Портфолио-000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 ---
