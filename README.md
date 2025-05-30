@@ -56,5 +56,4 @@
 ### 📫 Связаться со мной
 
 - 📧 Email: i@kirill-rusakov.ru 
-- 💬 Telegram: https://t.me/KirillRusacov 
-- 🌐 Сайт: https://parseforge.ru/
+- 💬 Telegram: https://t.me/KirillRusacov
