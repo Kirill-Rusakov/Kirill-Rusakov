@@ -1,6 +1,6 @@
 <h1 align="center">Всем доброго дня! Я Кирилл 👋</h1>
 
-<h3 align="center">PHP / Веб-разработчик / Laravel (Junior+)</h3>
+<h3 align="center">Laravel | PHP-разработчик | Junior+</h3>
 
 <p align="center">
   <a href="mailto:i@kirill-rusakov.ru" target="_blank"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 Обо мне
 
-> "Я PHP / Веб-разработчик / Laravel  уровня Junior+."
+> "Я Laravel | PHP-разработчик | Junior+"
 
 🎯 **Опыт:**
 - Более 3 лет в IT: фриланс и команды (Intelsib, QuantumCraft, Skyneex).
