@@ -1,6 +1,6 @@
 <h1 align="center">Всем доброго дня! Я Кирилл 👋</h1>
 
-<h3 align="center">PHP / Веб-разработчик (Junior+ / Middle)</h3>
+<h3 align="center">PHP / Веб-разработчик (Junior+)</h3>
 
 <p align="center">
   <a href="mailto:i@kirill-rusakov.ru" target="_blank"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -15,7 +15,7 @@
 > "Я PHP / Веб-разработчик уровня Junior+/ Middle."
 
 🎯 **Опыт:**
-- Более 3 лет в IT: фриланс и команды (Intelsib, Яндекс, Skyneex).
+- Более 3 лет в IT: фриланс и команды (Intelsib, QuantumCraft, Skyneex).
 - Создание сайтов и веб-приложений с нуля.
 
 🧠 **Навыки и практики:**
@@ -36,7 +36,6 @@
 🚀 **Интерес:**
 - Командная разработка, профессиональный рост.
 - "Чистый код", WordPress и их сочетание.
-- **Не рассматриваю:** Tilda, OpenCart.
 
 ---
 
@@ -50,7 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" />
 </p>
 
 ---
