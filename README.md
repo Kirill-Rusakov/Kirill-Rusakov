@@ -29,6 +29,10 @@
 ![DRY](https://img.shields.io/badge/-DRY-gray?style=flat-square)
 ![Clean Code](https://img.shields.io/badge/-Clean_Code-purple?style=flat-square)
 
+### 🌐 Окружение:
+![Linux]([https://img.shields.io/badge/-DRY-gray?style=flat-square](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black))
+![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge)
+
 ### 🧪 Тестирование:
 ![PHPUnit](https://img.shields.io/badge/-PHPUnit-6f42c1?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman)
