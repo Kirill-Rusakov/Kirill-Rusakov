@@ -30,7 +30,7 @@
 ![Clean Code](https://img.shields.io/badge/-Clean_Code-purple?style=flat-square)
 
 ### 🌐 Окружение:
-![Linux]([https://img.shields.io/badge/-DRY-gray?style=flat-square](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black))
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge)
 
 ### 🧪 Тестирование:
