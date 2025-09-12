@@ -32,6 +32,7 @@
 ### 🌐 Окружение:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge)
+![JIT](https://img.shields.io/badge/-JIT-394989?style=for-the-badge)
 
 ### 🧪 Тестирование:
 ![PHPUnit](https://img.shields.io/badge/-PHPUnit-6f42c1?style=for-the-badge)
