@@ -9,7 +9,7 @@
 - 💻 3+ года опыта в разработке: фриланс + команды (Intelsib, WeberWebStudio, Skyneex, 100KAM) | Project & Product
 - 🧠 Применяю SOLID, KISS, DRY, Clean Code, ООП
 - 🔧 Создаю парсеры, Telegram-ботов, REST-интеграции
-- ⚙️ Laravel, Eloquent ORM, Blade, Resource & Single Action Controllers, migrations, seeders & factories, validation, services, REST API, Middleware
+- ⚙️ Laravel, Eloquent ORM, Blade, Resource & Single Action Controllers, Migrations, Seeders & factories, Validation, Services, REST API, Middleware, Filtration 
 - 🧱 SQL - Mysql, PostgreSQL, Doctrine ORM
 - 🧪 Пишу базовые тесты, работаю через Postman
 - 🔐 Настраиваю окружение на Linux, Docker, JIT
