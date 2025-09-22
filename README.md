@@ -14,7 +14,7 @@ I'm a Pre-Middle PHP Developer. I write clean, maintainable code and am proficie
 
 - ⚙️ Laravel Ecosystem: Eloquent ORM, Blade, Resource & Single Action Controllers, Migrations, Seeders & Factories, Validation, Services, REST API, Middleware, Data Filtration
 
-- 🧱 Databases: MySQL, PostgreSQL, SQLite, Doctrine ORM
+- 🧱 Databases: MySQL, PostgreSQL, SQLite, Relationships, Doctrine ORM
 
 - 🧪 Testing: Unit Testing (PHPUnit), API Testing (Postman)
 
