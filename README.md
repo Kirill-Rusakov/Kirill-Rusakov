@@ -20,7 +20,7 @@ I'm a Pre-Middle PHP Developer. I write clean, maintainable code and am proficie
 
 - 🔐 DevOps & Environment: Linux, Docker, JIT
 
-- 🌐 Frontend: HTML5, SCSS, JavaScript, jQuery, React, Vue, WordPress + Elementor
+- 🌐 Frontend: HTML5, SCSS, JavaScript, jQuery
 
 ---
 
@@ -52,8 +52,6 @@ I'm a Pre-Middle PHP Developer. I write clean, maintainable code and am proficie
 ![Telegram Bot API](https://img.shields.io/badge/-Telegram_API-26A5E4?style=for-the-badge&logo=telegram)
 
 ### 🛠 Additional:
-![WordPress](https://img.shields.io/badge/-WordPress-21759b?style=for-the-badge&logo=wordpress)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Vue](https://img.shields.io/badge/-Vue-green?style=for-the-badge)
