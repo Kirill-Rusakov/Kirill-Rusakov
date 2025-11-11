@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Kirill
 
-I'm a Pre-Middle PHP Developer. I write clean, maintainable code and am proficient in taking on tasks "turnkey" — from design and development to deployment and optimization.
+I'm a Middle PHP Developer. I write clean, maintainable code and am proficient in taking on tasks "turnkey" — from design and development to deployment and optimization.
 
 ---
 
@@ -13,6 +13,8 @@ I'm a Pre-Middle PHP Developer. I write clean, maintainable code and am proficie
 - 🔧 Key Expertise: Web scraping, Telegram bots, REST API integration
 
 - ⚙️ Laravel Ecosystem: Eloquent ORM, Blade, Resource & Single Action Controllers, Migrations, Seeders & Factories, Validation, Services, REST API, Middleware, Data Filtration
+
+- 💻 RabbitMQ, Microservice architecture
 
 - 🧱 Databases: MySQL, PostgreSQL, SQLite, Doctrine ORM
 
