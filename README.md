@@ -34,6 +34,8 @@ I'm a Middle PHP Developer. I write clean, maintainable code and am proficient i
 ![Composer](https://img.shields.io/badge/-Composer-394989?style=for-the-badge&logo=composer)
 
 ### 🧱 Architecture & Code:
+![Microservices](https://img.shields.io/badge/-Microservices-red?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-orange?style=flat-square)
 ![SOLID](https://img.shields.io/badge/-SOLID-green?style=flat-square)
 ![MVC](https://img.shields.io/badge/-MVC-blue?style=flat-square)
 ![DRY](https://img.shields.io/badge/-DRY-gray?style=flat-square)
