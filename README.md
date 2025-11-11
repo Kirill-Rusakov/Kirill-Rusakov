@@ -31,7 +31,7 @@ I'm a Middle PHP Developer. I write clean, maintainable code and am proficient i
 ### 💻 Backend:
 ![PHP](https://img.shields.io/badge/-PHP-777?style=for-the-badge&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel)
-![Symfony](https://img.shields.io/badge/-Symfony-yellow?style=for-the-badge&logo=symfony)
+![Symfony](https://img.shields.io/badge/-Symfony-black?style=for-the-badge&logo=symfony)
 ![Composer](https://img.shields.io/badge/-Composer-394989?style=for-the-badge&logo=composer)
 
 ### 🧱 Architecture & Code:
