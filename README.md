@@ -12,7 +12,7 @@ I'm a Middle PHP Developer. I write clean, maintainable code and am proficient i
 
 - 🔧 Key Expertise: Web scraping, Telegram bots, REST API integration
 
-- ⚙️ Laravel Ecosystem: Eloquent ORM, Blade, Resource & Single Action Controllers, Migrations, Seeders & Factories, Validation, Services, REST API, Middleware, Data Filtration
+- ⚙️ Laravel Ecosystem: Eloquent ORM, Blade, Resource & Single Action Controllers, Migrations, Seeders & Factories, Validation, Services, REST API, Middleware, Data Filtration, Queues
 
 - 💻 RabbitMQ, Microservice architecture
 
