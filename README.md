@@ -6,7 +6,7 @@ I'm a Middle PHP Developer. I write clean, maintainable code and am proficient i
 
 ## 🚀 About Me:
 
-- 💻 3+ years in project & product development: freelance and team environments (Intelsib, WeberWebStudio, Skyneex, 100KAM)
+- 💻 4 years in project & product development: freelance and team environments (Intelsib, WeberWebStudio, Skyneex, 100KAM)
 
 - 🧠 Principles & Patterns: SOLID, KISS, DRY, Clean Code, OOP
 
