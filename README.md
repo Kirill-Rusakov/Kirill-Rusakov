@@ -16,7 +16,7 @@ I'm a Middle PHP Developer. I write clean, maintainable code and am proficient i
 
 - 🧠 Symfony: Components (HttpFoundation, Console, DependencyInjection), Doctrine ORM (DQL, Migrations), bandles, YAML/atributes.
 
-- 💻 RabbitMQ, Microservice architecture
+- 💻 RabbitMQ, Microservice architecture, Fibers
 
 - 🧱 Databases: MySQL, PostgreSQL, SQLite, Doctrine ORM
 
