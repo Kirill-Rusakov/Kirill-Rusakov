@@ -14,6 +14,8 @@ I'm a Middle PHP Developer. I write clean, maintainable code and am proficient i
 
 - ⚙️ Laravel Ecosystem: Eloquent ORM, Blade, Resource & Single Action Controllers, Migrations, Seeders & Factories, Validation, Services, REST API, Middleware, Data Filtration, Queues
 
+- 🧠 Symfony: Components (HttpFoundation, Console, DependencyInjection), Doctrine ORM (включая DQL, миграции), bandles, YAML/atributes.
+
 - 💻 RabbitMQ, Microservice architecture
 
 - 🧱 Databases: MySQL, PostgreSQL, SQLite, Doctrine ORM
