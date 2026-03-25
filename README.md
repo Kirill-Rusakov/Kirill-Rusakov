@@ -1,34 +1,32 @@
-# 👋 Hi there! I'm Kirill
+# 👋 Привет! Меня зовут Кирилл.
 
-I'm a Middle PHP Developer. I write clean, maintainable code and am proficient in taking on tasks "turnkey" — from design and development to deployment and optimization.
-
----
-
-## 🚀 About Me:
-
-- 💻 4 years in project & product development: solo and team environments (Intelsib, WeberWebStudio, Skyneex, 100KAM)
-
-- 🧠 Principles & Patterns: SOLID, KISS, DRY, Clean Code, OOP
-
-- 🔧 Key Expertise: Web scraping, Telegram bots, REST API integration
-
-- ⚙️ Laravel Ecosystem: Eloquent ORM, Blade, Resource & Single Action Controllers, Migrations, Seeders & Factories, Validation, Services, REST API, Middleware, Data Filtration, Queues
-
-- 🧠 Symfony: Components (HttpFoundation, Console, DependencyInjection), Doctrine ORM (DQL, Migrations), bandles, YAML/atributes.
-
-- 💻 RabbitMQ, Microservice architecture, Fibers
-
-- 🧱 Databases: MySQL, PostgreSQL, SQLite, Doctrine ORM
-
-- 🧪 Testing: Unit Testing (PHPUnit), API Testing (Postman)
-
-- 🔐 DevOps & Environment: Linux, Docker, JIT
-
-- 🌐 Frontend: HTML5, SCSS, JavaScript, jQuery
+Уже более 4-х лет я - практикующий Веб-разработчик | Full-Stack (JavaScript + PHP) | Project & Product. За это время, разрабатывал как Соло, так и в командах от пары человек, до нескольких десятков (Intelsib, WeberWebStudio, Skyneex, 100KAM).
 
 ---
 
-## 🧰 Tech Stack:
+## 🚀 Обо мне:
+
+- Principles & Patterns: SOLID, KISS, DRY, Clean Code, OOP
+
+- Key Expertise: Web scraping, Telegram bots, REST API integration
+
+- Laravel Ecosystem: Eloquent ORM, Blade, Resource & Single Action Controllers, Migrations, Seeders & Factories, Validation, Services, REST API, Middleware, Data Filtration, Queues
+
+- Symfony: Components (HttpFoundation, Console, DependencyInjection), Doctrine ORM (DQL, Migrations), bandles, YAML/atributes.
+
+- RabbitMQ, Microservice architecture, Fibers
+
+- Databases: MySQL, PostgreSQL, SQLite, Doctrine ORM
+
+- Testing: Unit Testing (PHPUnit), API Testing (Postman)
+
+- DevOps & Environment: Linux, Docker, JIT
+
+- Frontend: HTML5, SCSS, JavaScript, jQuery
+
+---
+
+## Tech Stack:
 
 ### 💻 Backend:
 ![PHP](https://img.shields.io/badge/-PHP-777?style=for-the-badge&logo=php)
